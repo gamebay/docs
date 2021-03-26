@@ -1,4 +1,4 @@
-site_name: Gamebay 
+site_name: Gamebay
 theme:
   name: material
   logo: images/logo_small.png
@@ -18,21 +18,25 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Concepts:
-    - Arena: concepts/arena.md
-    - Coins: concepts/coins.md
-    - Ranks: concepts/ranks.md
-    - Scoreboard: concepts/scoreboard.md
-    - Rewards: concepts/rewards.md
-    - Parental Control: concepts/parental-control.md
-    - Shop: concepts/shop.md
+      - Arena: concepts/arena.md
+      - Coins: concepts/coins.md
+      - Ranks: concepts/ranks.md
+      - Scoreboard: concepts/scoreboard.md
+      - Rewards: concepts/rewards.md
+      - Parental Control: concepts/parental-control.md
+      - Shop: concepts/shop.md
+  - Components:
+      - App: components/app.md
+      - Dashboard: components/dashboard.md
+      - Server: components/server.md
   - Observability:
-    - Logs: observability/logs.md
-    - Metrics: observability/metrics.md
+      - Logs: observability/logs.md
+      - Metrics: observability/metrics.md
   - Configuration:
-    - Arena: configuration/arena.md
-    - Computer: configuration/computer.md
-    - Shop: configuration/shop.md
+      - Arena: configuration/arena.md
+      - Computer: configuration/computer.md
+      - Shop: configuration/shop.md
   - FAQ:
-    - faq1: faq/1.md
+      - faq1: faq/1.md
 
 copyright: "Copyright &copy; 2020-2021 Gamebay"
