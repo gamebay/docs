@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+#![Gamebay](./images/logo.png#center)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Gamebay is a software solution for easy management of your gaming centres. 
 
-## Commands
+With Gamebay, there is no need to maintain and synchronize games every time there is an update: everything happens automatically, in real time (no restarts, no connection interruptions). With Gamebay, you spend time on your business, not on configuring and maintaining its working state.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Developing Gamebay, our main goal is to make it simple to use, and we're sure you'll enjoy it.
 
-<!-- ## Project layout
+-- The Gamebay Team
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        test-page.md       # Other markdown pages, images and other files. -->
+!!! info "Contact us"
+
+    Join our discord server or visit [our website](https://www.gamebay.io).
